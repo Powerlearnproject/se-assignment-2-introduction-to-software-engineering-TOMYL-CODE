@@ -52,26 +52,26 @@ Questions:
 <Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.>
     The details of the SDLC process vary for different teams. However, we outline some common SDLC phases below.
 
-  <Plan>
+  Plan
   The planning phase typically includes tasks like cost-benefit analysis, scheduling, resource estimation, and allocation. The development team collects requirements from several stakeholders such as customers, internal and external experts, and managers to create a software requirement specification document.
 
   The document  sets expectations and defines common goals that aid in project planning. The team estimates costs, creates a schedule, and has a detailed plan to achieve their goals.
 
-  <Design>
+  Design
   In the design phase, software engineers analyze requirements and identify the best solutions to create the software. For example, they may consider integrating pre-existing modules, make technology choices, and identify development tools. They will look at how to best integrate the new software into any existing IT infrastructure the organization may have.
 
-  <Implement>
+  Implement
   In the implementation phase, the development team codes the product. They analyze the requirements to identify smaller coding tasks they can do daily to achieve the final result.
 
-  <Test>
+  Test
   The development team combines automation and manual testing to check the software for bugs. Quality analysis includes testing the software for errors and checking if it meets customer requirements. Because many teams immediately test the code they write, the testing phase often runs parallel to the development phase.
 
-  <Deploy>
+  Deploy
   When teams develop software, they code and test on a different copy of the software than the one that the users have access to. The software that customers use is called production, while other copies are said to be in the build environment, or testing environment.
 
   Having separate build and production environments ensures that customers can continue to use the software even while it is being changed or upgraded. The deployment phase includes several tasks to move the latest build copy to the production environment, such as packaging, environment configuration, and installation.
 
-  <Maintain>
+  Maintain
   In the maintenance phase, among other tasks, the team fixes bugs, resolves customer issues, and manages software changes. In addition, the team monitors overall system performance, security, and user experience to identify new ways to improve the existing software.
 
   "refferences:https://www.split.io/blog/software-development-life-cycle-phases/#:~:text=The%20phases%20include%20requirements%2C%20design,testing%2C%20deployment%2C%20and%20maintenance.&text=This%20model%20involves%20repetitive%20cycles,product%20is%20achieved%20with%20success."
@@ -174,7 +174,7 @@ Software Design Principles:
 <What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.>
    Version control is defined as a system that tracks the progress of code across the software development lifecycle and its multiple iterations – which maintains a record of every change complete with authorship, timestamp, and other details – and also aids in managing change.
 
-   IMPORTANCE OF VERSION CONTROL
+   IMPORTANCE OF VERSION CONTROLL
    
       Managing and Protecting the Source Code
       The Version Control System helps manage the source code for the software team by keeping track of all the code modifications. It also protects the source code from any unintended human error and consequences.
